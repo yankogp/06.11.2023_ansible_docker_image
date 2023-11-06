@@ -1,0 +1,1 @@
+# 06.11.2023_ansible_docker_image
